@@ -1,0 +1,1 @@
+--querry to populate burgers table (at least 3)
